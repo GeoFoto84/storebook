@@ -6,7 +6,7 @@
 	
 	$array = array();
 	
-	$database = new Database('localhost', 'geofoto', 'AbCd1234', 'bookstore');
+	$database = new Database('localhost', '', '', '');
 	$array = $database->select();
 	
 	class Model {
