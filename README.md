@@ -1,4 +1,4 @@
 storebook
 =========
 
-An online bookcase
+An online bookcase VERSION 1.0
